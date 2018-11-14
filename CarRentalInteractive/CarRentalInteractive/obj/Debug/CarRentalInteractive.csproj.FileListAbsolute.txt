@@ -1,0 +1,10 @@
+C:\Users\zc137160\Desktop\C#\Chapter 3\CarRentalInteractive\CarRentalInteractive\obj\Debug\CarRentalInteractive.csprojAssemblyReference.cache
+C:\Users\zc137160\Desktop\C#\Chapter 3\CarRentalInteractive\CarRentalInteractive\obj\Debug\CarRentalInteractive.Form1.resources
+C:\Users\zc137160\Desktop\C#\Chapter 3\CarRentalInteractive\CarRentalInteractive\obj\Debug\CarRentalInteractive.Properties.Resources.resources
+C:\Users\zc137160\Desktop\C#\Chapter 3\CarRentalInteractive\CarRentalInteractive\obj\Debug\CarRentalInteractive.csproj.GenerateResource.cache
+C:\Users\zc137160\Desktop\C#\Chapter 3\CarRentalInteractive\CarRentalInteractive\obj\Debug\CarRentalInteractive.csproj.CoreCompileInputs.cache
+C:\Users\zc137160\Desktop\C#\Chapter 3\CarRentalInteractive\CarRentalInteractive\bin\Debug\CarRentalInteractive.exe.config
+C:\Users\zc137160\Desktop\C#\Chapter 3\CarRentalInteractive\CarRentalInteractive\bin\Debug\CarRentalInteractive.exe
+C:\Users\zc137160\Desktop\C#\Chapter 3\CarRentalInteractive\CarRentalInteractive\bin\Debug\CarRentalInteractive.pdb
+C:\Users\zc137160\Desktop\C#\Chapter 3\CarRentalInteractive\CarRentalInteractive\obj\Debug\CarRentalInteractive.exe
+C:\Users\zc137160\Desktop\C#\Chapter 3\CarRentalInteractive\CarRentalInteractive\obj\Debug\CarRentalInteractive.pdb

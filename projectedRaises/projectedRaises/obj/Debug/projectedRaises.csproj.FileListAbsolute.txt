@@ -1,0 +1,10 @@
+C:\Users\zc137160\Desktop\C#\Chapter 3\projectedRaises\projectedRaises\bin\Debug\projectedRaises.exe.config
+C:\Users\zc137160\Desktop\C#\Chapter 3\projectedRaises\projectedRaises\bin\Debug\projectedRaises.exe
+C:\Users\zc137160\Desktop\C#\Chapter 3\projectedRaises\projectedRaises\bin\Debug\projectedRaises.pdb
+C:\Users\zc137160\Desktop\C#\Chapter 3\projectedRaises\projectedRaises\obj\Debug\projectedRaises.csprojAssemblyReference.cache
+C:\Users\zc137160\Desktop\C#\Chapter 3\projectedRaises\projectedRaises\obj\Debug\projectedRaises.Form1.resources
+C:\Users\zc137160\Desktop\C#\Chapter 3\projectedRaises\projectedRaises\obj\Debug\projectedRaises.Properties.Resources.resources
+C:\Users\zc137160\Desktop\C#\Chapter 3\projectedRaises\projectedRaises\obj\Debug\projectedRaises.csproj.GenerateResource.cache
+C:\Users\zc137160\Desktop\C#\Chapter 3\projectedRaises\projectedRaises\obj\Debug\projectedRaises.csproj.CoreCompileInputs.cache
+C:\Users\zc137160\Desktop\C#\Chapter 3\projectedRaises\projectedRaises\obj\Debug\projectedRaises.exe
+C:\Users\zc137160\Desktop\C#\Chapter 3\projectedRaises\projectedRaises\obj\Debug\projectedRaises.pdb

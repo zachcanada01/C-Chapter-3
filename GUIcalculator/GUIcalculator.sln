@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUIcalculator", "GUIcalculator\GUIcalculator.csproj", "{626F17E8-3D63-4489-B87B-B8695DA0700A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{626F17E8-3D63-4489-B87B-B8695DA0700A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626F17E8-3D63-4489-B87B-B8695DA0700A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626F17E8-3D63-4489-B87B-B8695DA0700A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626F17E8-3D63-4489-B87B-B8695DA0700A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8565E468-9CB7-4BD0-BC33-8597DD8D6BCB}
+	EndGlobalSection
+EndGlobal
