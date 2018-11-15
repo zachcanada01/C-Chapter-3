@@ -40,7 +40,7 @@
             this.eggAmount4 = new System.Windows.Forms.TextBox();
             this.eggAmount5 = new System.Windows.Forms.TextBox();
             this.calculateEggs = new System.Windows.Forms.Button();
-            this.totalAmountOfEggs = new System.Windows.Forms.Label();
+            this.allEggs = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // chickenPrompt1
@@ -109,6 +109,7 @@
             this.eggAmount1.Name = "eggAmount1";
             this.eggAmount1.Size = new System.Drawing.Size(100, 20);
             this.eggAmount1.TabIndex = 6;
+            this.eggAmount1.TextChanged += new System.EventHandler(this.eggAmount1_TextChanged);
             // 
             // eggAmount2
             // 
@@ -146,21 +147,22 @@
             this.calculateEggs.TabIndex = 11;
             this.calculateEggs.Text = "Calculate Eggs";
             this.calculateEggs.UseVisualStyleBackColor = true;
+            this.calculateEggs.Click += new System.EventHandler(this.calculateEggs_Click);
             // 
-            // totalAmountOfEggs
+            // allEggs
             // 
-            this.totalAmountOfEggs.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.totalAmountOfEggs.Location = new System.Drawing.Point(270, 65);
-            this.totalAmountOfEggs.Name = "totalAmountOfEggs";
-            this.totalAmountOfEggs.Size = new System.Drawing.Size(121, 37);
-            this.totalAmountOfEggs.TabIndex = 12;
+            this.allEggs.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.allEggs.Location = new System.Drawing.Point(270, 65);
+            this.allEggs.Name = "allEggs";
+            this.allEggs.Size = new System.Drawing.Size(121, 37);
+            this.allEggs.TabIndex = 12;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.totalAmountOfEggs);
+            this.Controls.Add(this.allEggs);
             this.Controls.Add(this.calculateEggs);
             this.Controls.Add(this.eggAmount5);
             this.Controls.Add(this.eggAmount4);
@@ -194,7 +196,7 @@
         private System.Windows.Forms.TextBox eggAmount4;
         private System.Windows.Forms.TextBox eggAmount5;
         private System.Windows.Forms.Button calculateEggs;
-        private System.Windows.Forms.Label totalAmountOfEggs;
+        private System.Windows.Forms.Label allEggs;
     }
 }
 
