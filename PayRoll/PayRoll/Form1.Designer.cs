@@ -37,6 +37,8 @@
             this.enterSocialSecurity = new System.Windows.Forms.TextBox();
             this.enterHourlyPay = new System.Windows.Forms.TextBox();
             this.enterHoursWorked = new System.Windows.Forms.TextBox();
+            this.calculate = new System.Windows.Forms.Button();
+            this.result = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // prompt
@@ -114,11 +116,31 @@
             this.enterHoursWorked.Size = new System.Drawing.Size(100, 20);
             this.enterHoursWorked.TabIndex = 8;
             // 
+            // calculate
+            // 
+            this.calculate.Location = new System.Drawing.Point(277, 114);
+            this.calculate.Name = "calculate";
+            this.calculate.Size = new System.Drawing.Size(75, 23);
+            this.calculate.TabIndex = 9;
+            this.calculate.Text = "Calculate";
+            this.calculate.UseVisualStyleBackColor = true;
+            this.calculate.Click += new System.EventHandler(this.calculate_Click);
+            // 
+            // result
+            // 
+            this.result.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.result.Location = new System.Drawing.Point(375, 114);
+            this.result.Name = "result";
+            this.result.Size = new System.Drawing.Size(271, 86);
+            this.result.TabIndex = 10;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.result);
+            this.Controls.Add(this.calculate);
             this.Controls.Add(this.enterHoursWorked);
             this.Controls.Add(this.enterHourlyPay);
             this.Controls.Add(this.enterSocialSecurity);
@@ -146,6 +168,8 @@
         private System.Windows.Forms.TextBox enterSocialSecurity;
         private System.Windows.Forms.TextBox enterHourlyPay;
         private System.Windows.Forms.TextBox enterHoursWorked;
+        private System.Windows.Forms.Button calculate;
+        private System.Windows.Forms.Label result;
     }
 }
 
